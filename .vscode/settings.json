@@ -3,5 +3,6 @@
 		"*.ejs": "html",
 		"type_traits": "c",
 		"*.tcc": "cpp"
-	}
+	},
+	"cSpell.words": ["Gameboard", "Gameplay"]
 }
