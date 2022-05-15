@@ -1,3 +1,7 @@
+/*  Patrik Richard Szilagyi R00198735
+    Snakes and Ladders
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
